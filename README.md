@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/praveeninnovatestech09/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/praveeninnovatestech09/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Dynamic Programming
 |  |
@@ -44,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
