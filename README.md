@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/praveeninnovatestech09/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -47,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
