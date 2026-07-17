@@ -7,11 +7,11 @@ public:
         int element2=INT_MIN;
         int n=nums.size();
         for(int i=0;i<n;i++){
-            if(count1==0 && nums[i]!=element2){
+            if(count1==0  ){
                 element1=nums[i];
                 count1++;
             }
-            else if(count2==0 && nums[i]!=element1){
+            else if(count2==0  ){
                 element2=nums[i];
                 count2++;
             }
