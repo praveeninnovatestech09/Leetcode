@@ -16,7 +16,7 @@ public:
         ListNode* temp1= l1;
         ListNode* temp2 = l2;
         int carry =0;
-        while(temp1 != NULL || temp2 != NULL){
+        while(temp1 != NULL || temp2 != NULL || carry){
             int sum = carry;
             if(temp1){
                 sum+=temp1->val;
@@ -35,10 +35,10 @@ public:
                 temp2 = temp2->next;
             }
         }
-     if(carry){
-        ListNode* newNode =new ListNode(carry);
-        curr->next= newNode;
-     }
+    //  if(carry){
+    //     ListNode* newNode =new ListNode(carry);
+    //     curr->next= newNode;
+    //  }
 return dummyNode->next;
 
     }
