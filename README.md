@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
