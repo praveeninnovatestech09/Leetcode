@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
