@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2235-add-two-integers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/2235-add-two-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/praveeninnovatestech09/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Dynamic Programming
 |  |
