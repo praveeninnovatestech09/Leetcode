@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
@@ -187,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
