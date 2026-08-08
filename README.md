@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Tree
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0912-sort-an-array) |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
