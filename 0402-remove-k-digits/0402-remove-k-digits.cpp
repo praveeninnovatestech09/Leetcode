@@ -38,23 +38,15 @@ public:
         ans += st.top();
         st.pop();
     }
-
+while(ans.size()!=0 && ans.back()=='0'){
+    ans.pop_back();
+   }
     reverse(ans.begin(), ans.end());
 
     // Remove leading zeroes
-    int i = 0;
-
-    while(i < ans.size() && ans[i] == '0')
-    {
-        i++;
-    }
-
-    // If nothing remains
-    if(i == ans.size())
-    {
-        return "0";
-    }
-
-    return ans.substr(i);
+   if(ans.empty()){
+    return "0";
+   }
+   return ans;
     }
 };
