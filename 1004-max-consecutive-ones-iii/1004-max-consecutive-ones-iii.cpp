@@ -9,7 +9,7 @@ public:
         for(int right=0;right<n;right++){
             if(nums[right]==0)
         zeros++;
-        while(zeros>k){
+        if(zeros>k){
             if(nums[left]==0) zeros--;
             left++;
         }
