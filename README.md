@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [3731-find-missing-elements](https://github.com/praveeninnovatestech09/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
