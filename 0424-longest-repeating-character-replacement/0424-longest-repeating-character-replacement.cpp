@@ -9,7 +9,7 @@ public:
         mpp[s[r]]++;
         maxf=max(maxf,mpp[s[r]]);
         int changes= (r-l+1)-maxf;
-        while(changes>k){
+        if(changes>k){
         mpp[s[l]]--;
         l++;
         changes=(r-l+1)-maxf;
