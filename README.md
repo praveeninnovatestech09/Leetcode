@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0229-majority-element-ii) |
+| [0904-fruit-into-baskets](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [3731-find-missing-elements](https://github.com/praveeninnovatestech09/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
