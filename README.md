@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/2235-add-two-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/praveeninnovatestech09/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/praveeninnovatestech09/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1927-sum-game](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -237,4 +239,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0402-remove-k-digits) |
+| [1927-sum-game](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
