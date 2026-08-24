@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0053-maximum-subarray) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0075-sort-colors) |
