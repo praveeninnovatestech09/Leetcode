@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/praveeninnovatestech09/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/praveeninnovatestech09/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
