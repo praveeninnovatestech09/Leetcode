@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0229-majority-element-ii) |
+| [0475-heaters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0475-heaters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0475-heaters) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/praveeninnovatestech09/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0229-majority-element-ii) |
+| [0475-heaters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0162-find-peak-element) |
+| [0475-heaters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
