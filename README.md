@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -214,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0912-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/praveeninnovatestech09/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
