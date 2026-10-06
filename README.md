@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0475-heaters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## String
 |  |
 | ------- |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -441,4 +445,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0022-generate-parentheses) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
