@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0860-lemonade-change](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
