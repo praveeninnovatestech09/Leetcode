@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0860-lemonade-change) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0475-heaters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0475-heaters) |
+| [0658-find-k-closest-elements](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/praveeninnovatestech09/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/praveeninnovatestech09/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0242-valid-anagram) |
 | [0475-heaters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0475-heaters) |
+| [0658-find-k-closest-elements](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveeninnovatestech09/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -418,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/praveeninnovatestech09/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
