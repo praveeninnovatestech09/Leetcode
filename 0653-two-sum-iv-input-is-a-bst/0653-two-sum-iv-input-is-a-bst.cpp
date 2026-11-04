@@ -10,38 +10,64 @@
  * right(right) {}
  * };
  */
-class Solution {
+class BSTIterator {
 public:
-    void inOrder(TreeNode* root , vector<int>&ans) {
-       if (root == NULL) {
-            return;
-        }
-        inOrder(root->left,ans);
-        ans.push_back(root->val);
-        
-        inOrder(root->right,ans);
+    stack<TreeNode*>st;
+    bool reverse;
+    BSTIterator(TreeNode* root, bool isreverse) {
+        reverse = isreverse;
+        pushAll(root);
     }
-    bool findTarget(TreeNode* root, int k) {
-          vector<int>ans;
-        inOrder(root,ans);
-        int left= 0;
-        int right= ans.size()-1;
-        while(left<right){
-            int sum= ans[left]+ans[right];
-            if(sum==k){
-                return true;
-            }
-            if(sum<k){
-                left++;
-            }
-            if(sum>k){
-                right--;
+    void pushAll(TreeNode* root) {
+        while (root != NULL) {
+            st.push(root);
+            if (reverse) {
+                root = root->right;
+            } else {
+                root = root->left;
             }
         }
-        return false;
+    }
+    int next() {
+        TreeNode* temp = st.top();
+        st.pop();
+        if (reverse) {
+            pushAll(temp->left);
+        } else {
+            pushAll(temp->right);
+        }
+
+        return temp->val;
     }
 };
 
+class Solution {
+public:
+    bool findTarget(TreeNode* root, int k) {
+        if (root == NULL)
+            return false;
+        BSTIterator left(root, false);
+        BSTIterator right(root, true);
+        int low = left.next();
+        int high = right.next();
+        while (low < high) {
+            int sum = low + high;
 
+            if (sum == k) {
+                return true;
+            } else if (sum < k) {
+                if (left.st.empty()) {
+                    break;
+                }
+                low = left.next();
+            } else {
+                if (right.st.empty()) {
+                    break;
+                }
+                high = right.next();
+            }
+        }
 
-
+        return false;
+    }
+};
