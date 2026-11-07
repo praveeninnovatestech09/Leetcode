@@ -1,5 +1,8 @@
 class Solution {
 public:
+
+
+/// there is one more solution
     void dfs(int node, vector<vector<int>>& isConnected,
              vector<bool>& visited) {
 
